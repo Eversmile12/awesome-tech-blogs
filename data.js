@@ -1,5 +1,27 @@
 module.exports = [
   {
+    name: "Vitto Rivabella",
+    description: "Web development made easy. Become a web3 master with small-sized guides to help you kickstart your career",
+    url: "https://vitto.cc/",
+    twitter: "@VittoStack",
+    tags: [
+      "web3",
+      "JavaScript",
+      "Ethereum",
+      "React",
+      "NextJS"
+      "HTML",
+      "CSS",
+      "Web Development",
+      "Software Development",
+      "Open Source",
+      "Frontend",
+      "Next",
+      "Python",
+      "SEO",
+    ],
+  },
+  {
     name: "Yannick Mougin",
     description:
       "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
